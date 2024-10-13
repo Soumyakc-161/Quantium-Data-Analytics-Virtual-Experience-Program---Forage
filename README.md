@@ -1,4 +1,4 @@
-**## Quantium Data Analytics Simulation 🚀**
+## **Quantium Data Analytics Simulation 🚀**
 
 **About the Project**
 This project documents my experience with the Quantium Data Analytics simulation on Forage, where I completed a comprehensive job simulation focused on Data Analytics and Commercial Insights. Throughout the simulation, I developed key skills and delivered actionable insights to support data-driven decision-making for the data science team.
